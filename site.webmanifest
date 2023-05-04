@@ -3,12 +3,12 @@
     "short_name": "Baitopati",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir0cvvohik0Hr1T69FSGPP1Ns0wXBV276QoaxIaHqtpiAlJFwiLY8U9zJW0UfmTj4S_NCOp2uitf__Tscw_I-bxjoKRvnkruWdOeMJSjTJUOPNjagRhs6NASbKQUe3PLcJAQzumPfvh0D9qy9n66nKGFxzYqKSa26c99Lu70Uad7dk7JxXmngybGCtvw/s1600/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikVXMXqyrnzyThs5I6iMfEl8AUB7xBLaMEzf2CL08K7z92kpGUei_h2rXkgrqJB20XYuzJnUHsfFodDh_vdF0voWYTQnzu81nyQKzPb1JV8fxNkDd4HbX9mDhUODDjm53OgfCYt19iIeeRrQTiT7r3nrj9V2X7pdxeTY4_qd16IAM5F85CcjDoi5BSpA/s1600/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
